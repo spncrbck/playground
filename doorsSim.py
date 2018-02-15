@@ -5,7 +5,7 @@ wonChange = wonKeep = lostChange = lostKeep = 0
  
 trials = 10000
 trialsCompleted = 1
- 
+
 while trialsCompleted <= trials:
     prizeDoor = random.choice(availableDoors)
     selection = random.choice(availableDoors)
