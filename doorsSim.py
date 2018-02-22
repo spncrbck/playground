@@ -1,9 +1,9 @@
 import random
- 
+
 availableDoors = [1, 2, 3]
 wonChange = wonKeep = lostChange = lostKeep = 0
- 
-trials = 10000
+
+trials = 1000
 trialsCompleted = 1
 
 while trialsCompleted <= trials:
@@ -21,7 +21,7 @@ while trialsCompleted <= trials:
     else:
         break
     trialsCompleted = trialsCompleted + 1
- 
+
 print("%s trials were run." % (trials))
 print("Keeping selection won %s games and lost %s." % (wonKeep, lostKeep))
 print("Changing selection won %s games and lost %s." % (wonChange, lostChange))
