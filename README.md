@@ -4,7 +4,7 @@ This repository is for my personal projects as I learn more about software devel
 
 ### Development Environment
 
-Currently, I am using two forms of development environments; [Atom](https://atom.io/) on W10 with GitHub integration and SSH connection to Rapsberry Pi (via [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)) + VIM + command-line git committing/pushing.
+Currently, I am using two forms of development environments; [Atom](https://atom.io/) on W10 with GitHub integration and SSH connection to Raspberry Pi (via [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)) + VIM + command-line git committing/pushing.
 
 ### Future Project Plans
 
